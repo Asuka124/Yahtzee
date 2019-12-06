@@ -1,0 +1,85 @@
+{
+  "computer" : [ {
+    "name" : "Com: 0",
+    "upperScore" : 10,
+    "totalScore" : 10,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 1, 2, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 1",
+    "upperScore" : 4,
+    "totalScore" : 4,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 2",
+    "upperScore" : 15,
+    "totalScore" : 15,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 4, 3, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 3",
+    "upperScore" : 15,
+    "totalScore" : 15,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 1, 2, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 4",
+    "upperScore" : 9,
+    "totalScore" : 9,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 2, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 5",
+    "upperScore" : 17,
+    "totalScore" : 17,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 2, 4, 3, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 6",
+    "upperScore" : 24,
+    "totalScore" : 24,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 2, 2, 12, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 7",
+    "upperScore" : 16,
+    "totalScore" : 16,
+    "can" : [ true, true, true, true, false, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 6, 6, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  } ],
+  "player" : {
+    "name" : "sansir",
+    "upperScore" : 7,
+    "totalScore" : 47,
+    "can" : [ true, false, false, true, true, false, false, false, false, false, true, false, false ],
+    "scores" : [ 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 40, 0, 0 ],
+    "diceList" : [ ],
+    "time" : "0",
+    "upperBonus" : 0
+  }
+}

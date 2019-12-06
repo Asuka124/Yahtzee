@@ -1,0 +1,175 @@
+{
+  "computer" : [ {
+    "name" : "Com: 0",
+    "upperScore" : 20,
+    "totalScore" : 20,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 1, 2, 3, 4, 10, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 3
+    }, {
+      "value" : 1
+    }, {
+      "value" : 5
+    }, {
+      "value" : 3
+    }, {
+      "value" : 5
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 1",
+    "upperScore" : 14,
+    "totalScore" : 14,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 4, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 4
+    }, {
+      "value" : 5
+    }, {
+      "value" : 3
+    }, {
+      "value" : 5
+    }, {
+      "value" : 4
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 2",
+    "upperScore" : 25,
+    "totalScore" : 25,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 4, 3, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 2
+    }, {
+      "value" : 5
+    }, {
+      "value" : 4
+    }, {
+      "value" : 1
+    }, {
+      "value" : 5
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 3",
+    "upperScore" : 15,
+    "totalScore" : 15,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 1, 2, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 1
+    }, {
+      "value" : 2
+    }, {
+      "value" : 2
+    }, {
+      "value" : 4
+    }, {
+      "value" : 1
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 4",
+    "upperScore" : 14,
+    "totalScore" : 14,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 4
+    }, {
+      "value" : 5
+    }, {
+      "value" : 1
+    }, {
+      "value" : 2
+    }, {
+      "value" : 1
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 5",
+    "upperScore" : 17,
+    "totalScore" : 17,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 2, 4, 3, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 4
+    }, {
+      "value" : 2
+    }, {
+      "value" : 4
+    }, {
+      "value" : 4
+    }, {
+      "value" : 2
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 6",
+    "upperScore" : 24,
+    "totalScore" : 24,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 2, 2, 12, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 3
+    }, {
+      "value" : 1
+    }, {
+      "value" : 3
+    }, {
+      "value" : 2
+    }, {
+      "value" : 2
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }, {
+    "name" : "Com: 7",
+    "upperScore" : 21,
+    "totalScore" : 21,
+    "can" : [ true, true, true, true, true, false, false, false, false, false, false, false, false ],
+    "scores" : [ 0, 6, 6, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "diceList" : [ {
+      "value" : 1
+    }, {
+      "value" : 5
+    }, {
+      "value" : 2
+    }, {
+      "value" : 3
+    }, {
+      "value" : 3
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  } ],
+  "player" : {
+    "name" : "sansir",
+    "upperScore" : 7,
+    "totalScore" : 47,
+    "can" : [ true, true, false, true, true, false, false, false, false, false, true, false, false ],
+    "scores" : [ 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 40, 0, 0 ],
+    "diceList" : [ {
+      "value" : 5
+    }, {
+      "value" : 4
+    }, {
+      "value" : 5
+    }, {
+      "value" : 1
+    }, {
+      "value" : 4
+    } ],
+    "time" : "0",
+    "upperBonus" : 0
+  }
+}
